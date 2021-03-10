@@ -1,0 +1,48 @@
+{
+  "itemGroup.atomictechnology": "AtomicTechnology",
+
+  "item.atomictechnology.atomic_processor": "Atomic processor",
+  "item.atomictechnology.advanced_processor": "Advanced processor",
+  "item.atomictechnology.elite_processor": "Elite processor",
+  "item.atomictechnology.basic_processor": "Basic processor",
+
+  "item.atomictechnology.copper_ingot": "Copper ingot",
+  "item.atomictechnology.lead_ingot": "Lead ingot",
+  "item.atomictechnology.silver_ingot": "Silver ingot",
+  "item.atomictechnology.titanium_ingot": "Titanium ingot",
+  "item.atomictechnology.aluminium_ingot": "Aluminium ingot",
+  "item.atomictechnology.steel_ingot": "Steel ingot",
+
+  "block.atomictechnology.steel_block": "Block of steel",
+  "block.atomictechnology.copper_block": "Block of copper",
+  "block.atomictechnology.lead_block": "Block of lead",
+  "block.atomictechnology.silver_block": "Block of silver",
+  "block.atomictechnology.titanium_block": "Block of titanium",
+  "block.atomictechnology.aluminium_block": "Block of aluminium",
+
+  "block.atomictechnology.atomic_smelter": "Atomic smelter",
+  "block.atomictechnology.advanced_smelter": "Advanced smelter",
+  "block.atomictechnology.elite_smelter": "Elite smelter",
+  "block.atomictechnology.basic_smelter": "Basic smelter",
+
+  "block.atomictechnology.advanced_machine_casing": "Advanced machine casing",
+  "block.atomictechnology.elite_machine_casing": "Elite machine casing",
+  "block.atomictechnology.basic_machine_casing": "Basic machine casing",
+
+  "container.atomictechnology.atomic_smelter": "Atomic smelter",
+  "container.atomictechnology.advanced_smelter": "Advanced smelter",
+  "container.atomictechnology.elite_smelter": "Elite smelter",
+  "container.atomictechnology.basic_smelter": "Basic smelter",
+
+  "configGui.atomictechnology.atomic_smelter_rf_capacity": "Atomic smelter RF capacity",
+  "configGui.atomictechnology.atomic_smelter_rf_rate": "Atomic smelter RF rate",
+
+  "configGui.atomictechnology.advanced_smelter_rf_capacity": "Advanced smelter RF capacity",
+  "configGui.atomictechnology.advanced_smelter_rf_rate": "Advanced smelter RF rate",
+
+  "configGui.atomictechnology.elite_smelter_rf_capacity": "Elite smelter RF capacity",
+  "configGui.atomictechnology.elite_smelter_rf_rate": "Elite smelter RF rate",
+
+  "configGui.atomictechnology.basic_smelter_rf_capacity": "Basic smelter RF capacity",
+  "configGui.atomictechnology.basic_smelter_rf_rate": "Basic smelter RF rate"
+}

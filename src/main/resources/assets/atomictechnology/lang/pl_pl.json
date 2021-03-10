@@ -1,0 +1,49 @@
+{
+  "itemGroup.atomictechnology": "AtomicTechnology",
+
+  "item.atomictechnology.atomic_processor": "Procesor atomowy",
+  "item.atomictechnology.advanced_processor": "Zaawansowany procesor",
+  "item.atomictechnology.elite_processor": "Elitarny procesor",
+  "item.atomictechnology.basic_processor": "Podstawowy procesor",
+
+  "item.atomictechnology.copper_ingot": "Sztabka miedzi",
+  "item.atomictechnology.lead_ingot": "Sztabka ołowiu",
+  "item.atomictechnology.silver_ingot": "Sztabka srebra",
+  "item.atomictechnology.titanium_ingot": "Sztabka tytanu",
+  "item.atomictechnology.aluminium_ingot": "Sztabka glinu",
+
+  "block.atomictechnology.copper_block": "Blok miedzi",
+  "block.atomictechnology.lead_block": "Blok ołowiu",
+  "block.atomictechnology.silver_block": "Blok srebra",
+  "block.atomictechnology.titanium_block": "Blok tytanu",
+  "block.atomictechnology.aluminium_block": "Blok glinu",
+
+  "block.atomictechnology.atomic_smelter": "Atomowa huta",
+  "block.atomictechnology.advanced_smelter": "Zaawansowana huta",
+  "block.atomictechnology.elite_smelter": "Elitarna huta",
+  "block.atomictechnology.basic_smelter": "Podstawowa huta",
+
+  "block.atomictechnology.advanced_machine_casing": "Zaawansowana obudowa",
+  "block.atomictechnology.enhanced_machine_casing": "Wzmocniona obudowa",
+  "block.atomictechnology.basic_machine_casing": "Podstawowa obudowa",
+
+  "smelter.atomictechnology.steel_ingot": "Sztabka stali",
+  "smelter.atomictechnology.steel_block": "Blok stali",
+
+  "container.atomictechnology.atomic_smelter": "Atomowa huta",
+  "container.atomictechnology.advanced_smelter": "Zaawansowana huta",
+  "container.atomictechnology.elite_smelter": "Elitarna huta",
+  "container.atomictechnology.basic_smelter": "Podstawowa huta",
+
+  "configGui.atomictechnology.atomic_smelter_rf_capacity": "Pojemność RF atomowej huty",
+  "configGui.atomictechnology.atomic_smelter_rf_rate": "Prędkość zużywania RF atomowej huty",
+
+  "configGui.atomictechnology.advanced_smelter_rf_capacity": "Pojemność RF zaawansowanej huty",
+  "configGui.atomictechnology.advanced_smelter_rf_rate": "Prędkość zużywania RF zaawansowanej huty",
+
+  "configGui.atomictechnology.elite_smelter_rf_capacity": "Pojemność RF elitarnej huty",
+  "configGui.atomictechnology.elite_smelter_rf_rate": "Prędkość zużywania RF elitarnej huty",
+
+  "configGui.atomictechnology.basic_smelter_rf_capacity": "Pojemność RF podstawowej huty",
+  "configGui.atomictechnology.basic_smelter_rf_rate": "Prędkość zużywania RF podstawowej huty"
+}

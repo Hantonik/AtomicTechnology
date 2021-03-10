@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "name": "atomictechnology:basic_smelter",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "atomictechnology:basic_smelter"
+        }
+      ]
+    }
+  ]
+}

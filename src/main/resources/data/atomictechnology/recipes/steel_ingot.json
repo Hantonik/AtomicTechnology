@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients":
+  [
+
+    {
+      "tag": "forge:steel_block"
+    }
+
+  ],
+
+  "result":
+  {
+    "item": "atomictechnology:steel_ingot",
+    "count": 9
+  }
+}

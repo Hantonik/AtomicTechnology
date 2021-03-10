@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "SSS",
+    "SSS",
+    "SSS"
+  ],
+
+  "key":
+  {
+    "S":
+    {
+      "tag": "forge:silver_ingot"
+    }
+  },
+
+  "result":
+  {
+    "item": "atomictechnology:silver_block",
+    "count": 1
+  }
+}

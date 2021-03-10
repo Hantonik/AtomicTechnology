@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients":
+  [
+    {
+      "tag": "forge:lead_block"
+    }
+
+  ],
+
+  "result":
+  {
+    "item": "atomictechnology:lead_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients":
+  [
+
+    {
+      "tag": "forge:copper_block"
+    }
+
+  ],
+
+  "result":
+  {
+    "item": "atomictechnology:copper_ingot",
+    "count": 9
+  }
+}
