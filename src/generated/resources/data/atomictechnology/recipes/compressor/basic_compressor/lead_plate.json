@@ -1,0 +1,19 @@
+{
+  "type": "atomictechnology:basic_compressor",
+  "inputs": [
+    {
+      "tag": "forge:ingots/lead"
+    },
+    {
+      "tag": "forge:ingots/lead"
+    }
+  ],
+  "pattern": {
+    "item": "atomictechnology:plate_pattern"
+  },
+  "output": {
+    "item": "atomictechnology:lead_plate"
+  },
+  "powerCost": 2000,
+  "powerRate": 500
+}

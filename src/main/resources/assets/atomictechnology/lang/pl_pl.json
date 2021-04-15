@@ -1,0 +1,62 @@
+{
+  "itemGroup.atomictechnology": "AtomicTechnology",
+
+  "item.atomictechnology.atomic_processor": "Atomowy procesor",
+  "item.atomictechnology.advanced_processor": "Zaawansowany procesor",
+  "item.atomictechnology.elite_processor": "Elitarny procesor",
+  "item.atomictechnology.basic_processor": "Podstawowy procesor",
+
+  "item.atomictechnology.copper_ingot": "Sztabka miedzi",
+  "item.atomictechnology.lead_ingot": "Sztabka ołowiu",
+  "item.atomictechnology.silver_ingot": "Sztabka srebra",
+  "item.atomictechnology.titanium_ingot": "Sztabka tytanu",
+  "item.atomictechnology.aluminium_ingot": "Sztabka glinu",
+  "item.atomictechnology.steel_ingot": "Sztabka stali",
+  "item.atomictechnology.silicon": "Krzem",
+
+  "item.atomictechnology.vosmenite_alloy_ingot": "Sztabka stopu vosmenitu",
+
+  "block.atomictechnology.copper_block": "Blok miedzi",
+  "block.atomictechnology.lead_block": "Blok ołowiu",
+  "block.atomictechnology.silver_block": "Blok srebra",
+  "block.atomictechnology.titanium_block": "Blok tytanu",
+  "block.atomictechnology.aluminium_block": "Blok glinu",
+  "block.atomictechnology.steel_block": "Blok stali",
+
+  "block.atomictechnology.vosmenite_alloy_block": "Blok stopu vosmenaitu",
+
+  "block.atomictechnology.atomic_smelter": "Atomowa huta",
+  "block.atomictechnology.advanced_smelter": "Zaawansowana huta",
+  "block.atomictechnology.elite_smelter": "Elitarna huta",
+  "block.atomictechnology.basic_smelter": "Podstawowa huta",
+
+  "block.atomictechnology.advanced_machine_casing": "Zaawansowana obudowa",
+  "block.atomictechnology.elite_machine_casing": "Wzmocniona obudowa",
+  "block.atomictechnology.basic_machine_casing": "Podstawowa obudowa",
+
+  "containers.atomictechnology.atomic_smelter": "Atomowa huta",
+  "containers.atomictechnology.advanced_smelter": "Zaawansowana huta",
+  "containers.atomictechnology.elite_smelter": "Elitarna huta",
+  "containers.atomictechnology.basic_smelter": "Podstawowa huta",
+
+  "containers.atomictechnology.atomic_compressor": "Atomowy kompresor",
+  "containers.atomictechnology.advanced_compressor": "Zaawansowany kompresor",
+  "containers.atomictechnology.elite_compressor": "Elitarny kompresor",
+  "containers.atomictechnology.basic_compressor": "Podstawowy kompresor",
+
+  "tooltip.atomictechnology.crafting_component": "Składnik receptur",
+  "tooltip.atomictechnology.added_by": "Dodano przez: %s",
+  "tooltip.atomictechnology.crafting": "Receptura: %sx %s",
+
+  "tooltip.atomictechnology.vosmenite_alloy": "Bardzo twardy materiał. Niezbędny do budowy zaawansowanych maszyn.",
+  "tooltip.atomictechnology.goldium_alloy": "Materiał świetnie przewodząy prąd. Przydaje się do budowy kabli o dużej przewodności.",
+  "tooltip.atomictechnology.pattern": "Forma do receptur w kompresorze",
+
+  "jei.category.atomictechnology.smelter": "Huta",
+  "jei.category.atomictechnology.compressor": "Kompresor",
+
+  "title.atomictechnology.atomic_smelter": "Atomowy",
+  "title.atomictechnology.advanced_smelter": "Zaawansowany",
+  "title.atomictechnology.elite_smelter": "Elitarny",
+  "title.atomictechnology.basic_smelter": "Bazowy"
+}

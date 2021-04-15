@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "atomictechnology:compressor/basic_compressor/vosmenite_alloy_plate"
+    ]
+  },
+  "criteria": {
+    "vosmenite_alloy_plate": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "atomictechnology:vosmenite_alloy_plate"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "atomictechnology:compressor/basic_compressor/vosmenite_alloy_plate"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "vosmenite_alloy_plate",
+      "has_the_recipe"
+    ]
+  ]
+}

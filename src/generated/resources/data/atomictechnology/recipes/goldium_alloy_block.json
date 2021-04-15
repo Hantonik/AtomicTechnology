@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "atomictechnology:goldium_alloy_ingot"
+    },
+    {
+      "item": "atomictechnology:goldium_alloy_ingot"
+    },
+    {
+      "item": "atomictechnology:goldium_alloy_ingot"
+    },
+    {
+      "item": "atomictechnology:goldium_alloy_ingot"
+    },
+    {
+      "item": "atomictechnology:goldium_alloy_ingot"
+    },
+    {
+      "item": "atomictechnology:goldium_alloy_ingot"
+    },
+    {
+      "item": "atomictechnology:goldium_alloy_ingot"
+    },
+    {
+      "item": "atomictechnology:goldium_alloy_ingot"
+    },
+    {
+      "item": "atomictechnology:goldium_alloy_ingot"
+    }
+  ],
+  "result": {
+    "item": "atomictechnology:goldium_alloy_block"
+  }
+}

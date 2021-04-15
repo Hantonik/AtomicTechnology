@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "atomictechnology:goldium_alloy_ingot"
+    ]
+  },
+  "criteria": {
+    "has_goldium_alloy_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "atomictechnology:goldium_alloy_block"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "atomictechnology:goldium_alloy_ingot"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_goldium_alloy_block",
+      "has_the_recipe"
+    ]
+  ]
+}

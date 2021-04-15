@@ -1,0 +1,19 @@
+{
+  "type": "atomictechnology:basic_compressor",
+  "inputs": [
+    {
+      "tag": "forge:ingots/silver"
+    },
+    {
+      "tag": "forge:ingots/silver"
+    }
+  ],
+  "pattern": {
+    "item": "atomictechnology:plate_pattern"
+  },
+  "output": {
+    "item": "atomictechnology:silver_plate"
+  },
+  "powerCost": 2000,
+  "powerRate": 500
+}

@@ -1,0 +1,17 @@
+{
+  "type": "atomictechnology:advanced_smelter",
+  "inputs": [
+    {
+      "tag": "forge:ingots/copper"
+    },
+    {
+      "tag": "forge:ingots/gold"
+    }
+  ],
+  "output": {
+    "item": "atomictechnology:goldium_alloy_ingot",
+    "count": 2
+  },
+  "powerCost": 13500,
+  "powerRate": 10000
+}

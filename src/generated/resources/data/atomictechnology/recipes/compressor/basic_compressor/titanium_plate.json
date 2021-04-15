@@ -1,0 +1,19 @@
+{
+  "type": "atomictechnology:basic_compressor",
+  "inputs": [
+    {
+      "tag": "forge:ingots/titanium"
+    },
+    {
+      "tag": "forge:ingots/titanium"
+    }
+  ],
+  "pattern": {
+    "item": "atomictechnology:plate_pattern"
+  },
+  "output": {
+    "item": "atomictechnology:titanium_plate"
+  },
+  "powerCost": 2500,
+  "powerRate": 500
+}

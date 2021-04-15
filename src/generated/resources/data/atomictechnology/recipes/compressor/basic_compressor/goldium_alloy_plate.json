@@ -1,0 +1,19 @@
+{
+  "type": "atomictechnology:basic_compressor",
+  "inputs": [
+    {
+      "item": "atomictechnology:goldium_alloy_ingot"
+    },
+    {
+      "item": "atomictechnology:goldium_alloy_ingot"
+    }
+  ],
+  "pattern": {
+    "item": "atomictechnology:plate_pattern"
+  },
+  "output": {
+    "item": "atomictechnology:goldium_alloy_plate"
+  },
+  "powerCost": 2500,
+  "powerRate": 500
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "atomictechnology:compressor/basic_compressor/goldium_alloy_plate"
+    ]
+  },
+  "criteria": {
+    "goldium_alloy_plate": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "atomictechnology:goldium_alloy_plate"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "atomictechnology:compressor/basic_compressor/goldium_alloy_plate"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "goldium_alloy_plate",
+      "has_the_recipe"
+    ]
+  ]
+}

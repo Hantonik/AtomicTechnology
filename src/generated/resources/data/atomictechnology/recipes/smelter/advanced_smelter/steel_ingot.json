@@ -1,0 +1,17 @@
+{
+  "type": "atomictechnology:advanced_smelter",
+  "inputs": [
+    {
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "item": "minecraft:coal"
+    }
+  ],
+  "output": {
+    "item": "atomictechnology:steel_ingot",
+    "count": 2
+  },
+  "powerCost": 7500,
+  "powerRate": 10000
+}

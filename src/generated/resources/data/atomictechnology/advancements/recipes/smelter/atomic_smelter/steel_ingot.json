@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "atomictechnology:smelter/atomic_smelter/steel_ingot"
+    ]
+  },
+  "criteria": {
+    "steel_ingot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "atomictechnology:steel_ingot"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "atomictechnology:smelter/atomic_smelter/steel_ingot"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "steel_ingot",
+      "has_the_recipe"
+    ]
+  ]
+}

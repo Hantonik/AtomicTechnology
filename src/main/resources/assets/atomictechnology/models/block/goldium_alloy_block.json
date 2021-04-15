@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "atomictechnology:block/goldium_alloy_block"
+  }
+}

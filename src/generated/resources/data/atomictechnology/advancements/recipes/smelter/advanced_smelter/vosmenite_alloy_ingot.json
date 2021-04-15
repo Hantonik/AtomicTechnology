@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "atomictechnology:smelter/advanced_smelter/vosmenite_alloy_ingot"
+    ]
+  },
+  "criteria": {
+    "vosmenite_alloy_ingot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "atomictechnology:vosmenite_alloy_ingot"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "atomictechnology:smelter/advanced_smelter/vosmenite_alloy_ingot"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "vosmenite_alloy_ingot",
+      "has_the_recipe"
+    ]
+  ]
+}

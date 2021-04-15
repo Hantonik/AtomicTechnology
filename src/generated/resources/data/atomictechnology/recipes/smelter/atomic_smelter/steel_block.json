@@ -1,0 +1,17 @@
+{
+  "type": "atomictechnology:atomic_smelter",
+  "inputs": [
+    {
+      "tag": "forge:storage_blocks/iron"
+    },
+    {
+      "tag": "forge:storage_blocks/coal"
+    }
+  ],
+  "output": {
+    "item": "atomictechnology:steel_block",
+    "count": 2
+  },
+  "powerCost": 37500,
+  "powerRate": 1000000
+}

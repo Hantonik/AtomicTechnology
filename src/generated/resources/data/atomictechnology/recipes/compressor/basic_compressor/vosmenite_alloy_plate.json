@@ -1,0 +1,19 @@
+{
+  "type": "atomictechnology:basic_compressor",
+  "inputs": [
+    {
+      "item": "atomictechnology:vosmenite_alloy_ingot"
+    },
+    {
+      "item": "atomictechnology:vosmenite_alloy_ingot"
+    }
+  ],
+  "pattern": {
+    "item": "atomictechnology:plate_pattern"
+  },
+  "output": {
+    "item": "atomictechnology:vosmenite_alloy_plate"
+  },
+  "powerCost": 4500,
+  "powerRate": 500
+}

@@ -1,0 +1,17 @@
+{
+  "type": "atomictechnology:atomic_smelter",
+  "inputs": [
+    {
+      "tag": "forge:storage_blocks/copper"
+    },
+    {
+      "tag": "forge:storage_blocks/gold"
+    }
+  ],
+  "output": {
+    "item": "atomictechnology:goldium_alloy_block",
+    "count": 2
+  },
+  "powerCost": 67500,
+  "powerRate": 1000000
+}

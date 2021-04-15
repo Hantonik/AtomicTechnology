@@ -1,0 +1,62 @@
+{
+  "itemGroup.atomictechnology": "AtomicTechnology",
+
+  "item.atomictechnology.atomic_processor": "Atomic processor",
+  "item.atomictechnology.advanced_processor": "Advanced processor",
+  "item.atomictechnology.elite_processor": "Elite processor",
+  "item.atomictechnology.basic_processor": "Basic processor",
+
+  "item.atomictechnology.copper_ingot": "Copper ingot",
+  "item.atomictechnology.lead_ingot": "Lead ingot",
+  "item.atomictechnology.silver_ingot": "Silver ingot",
+  "item.atomictechnology.titanium_ingot": "Titanium ingot",
+  "item.atomictechnology.aluminium_ingot": "Aluminium ingot",
+  "item.atomictechnology.steel_ingot": "Steel ingot",
+  "item.atomictechnology.silicon": "Silicon",
+
+  "item.atomictechnology.vosmenite_alloy_ingot": "Vosmenite alloy ingot",
+
+  "block.atomictechnology.steel_block": "Block of steel",
+  "block.atomictechnology.copper_block": "Block of copper",
+  "block.atomictechnology.lead_block": "Block of lead",
+  "block.atomictechnology.silver_block": "Block of silver",
+  "block.atomictechnology.titanium_block": "Block of titanium",
+  "block.atomictechnology.aluminium_block": "Block of aluminium",
+
+  "block.atomictechnology.vosmenite_alloy_block": "Block of vosmenite alloy",
+
+  "block.atomictechnology.atomic_smelter": "Atomic smelter",
+  "block.atomictechnology.advanced_smelter": "Advanced smelter",
+  "block.atomictechnology.elite_smelter": "Elite smelter",
+  "block.atomictechnology.basic_smelter": "Basic smelter",
+
+  "block.atomictechnology.advanced_machine_casing": "Advanced machine casing",
+  "block.atomictechnology.elite_machine_casing": "Elite machine casing",
+  "block.atomictechnology.basic_machine_casing": "Basic machine casing",
+
+  "containers.atomictechnology.atomic_smelter": "Atomic smelter",
+  "containers.atomictechnology.advanced_smelter": "Advanced smelter",
+  "containers.atomictechnology.elite_smelter": "Elite smelter",
+  "containers.atomictechnology.basic_smelter": "Basic smelter",
+
+  "containers.atomictechnology.atomic_compressor": "Atomic compressor",
+  "containers.atomictechnology.advanced_compressor": "Advanced compressor",
+  "containers.atomictechnology.elite_compressor": "Elite compressor",
+  "containers.atomictechnology.basic_compressor": "Basic compressor",
+
+  "tooltip.atomictechnology.crafting_component": "Crafting component",
+  "tooltip.atomictechnology.added_by": "Added by: %s",
+  "tooltip.atomictechnology.crafting": "Crafting: %sx %s",
+
+  "tooltip.atomictechnology.vosmenite_alloy": "Very hard material necessary for the construction of advanced machines.",
+  "tooltip.atomictechnology.goldium_alloy": "Material that conducts electricity very well. It's useful for building cables with high conductivity.",
+  "tooltip.atomictechnology.pattern": "Pattern for compressor recipes.",
+
+  "jei.category.atomictechnology.smelter": "Smelter",
+  "jei.category.atomictechnology.compressor": "Compressor",
+
+  "title.atomictechnology.atomic_smelter": "Atomic",
+  "title.atomictechnology.advanced_smelter": "Advanced",
+  "title.atomictechnology.elite_smelter": "Elite",
+  "title.atomictechnology.basic_smelter": "Basic"
+}

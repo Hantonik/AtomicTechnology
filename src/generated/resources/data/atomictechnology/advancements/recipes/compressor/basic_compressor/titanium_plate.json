@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "atomictechnology:compressor/basic_compressor/titanium_plate"
+    ]
+  },
+  "criteria": {
+    "titanium_plate": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "atomictechnology:titanium_plate"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "atomictechnology:compressor/basic_compressor/titanium_plate"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "titanium_plate",
+      "has_the_recipe"
+    ]
+  ]
+}

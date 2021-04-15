@@ -1,0 +1,20 @@
+{
+  "type": "atomictechnology:advanced_smelter",
+  "inputs": [
+    {
+      "tag": "forge:storage_blocks/titanium"
+    },
+    {
+      "tag": "forge:storage_blocks/steel"
+    },
+    {
+      "tag": "forge:storage_blocks/copper"
+    }
+  ],
+  "output": {
+    "item": "atomictechnology:vosmenite_alloy_block",
+    "count": 2
+  },
+  "powerCost": 124500,
+  "powerRate": 10000
+}

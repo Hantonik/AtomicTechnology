@@ -1,0 +1,50 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "atomictechnology:block/basic_energy_cable"
+      }
+    },
+    {
+      "when": { "OR": [{ "north": "cable" }, { "north": "inventory" }] },
+      "apply": {
+        "model": "atomictechnology:block/basic_energy_cable_extension"
+      }
+    },
+    {
+      "when": { "OR": [{ "east": "cable" }, { "east": "inventory" }] },
+      "apply": {
+        "model": "atomictechnology:block/basic_energy_cable_extension",
+        "y": 90
+      }
+    },
+    {
+      "when": { "OR": [{ "south": "cable" }, { "south": "inventory" }] },
+      "apply": {
+        "model": "atomictechnology:block/basic_energy_cable_extension",
+        "x": 180
+      }
+    },
+    {
+      "when": { "OR": [{ "west": "cable" }, { "west": "inventory" }] },
+      "apply": {
+        "model": "atomictechnology:block/basic_energy_cable_extension",
+        "y": 270
+      }
+    },
+    {
+      "when": { "OR": [{ "up": "cable" }, { "up": "inventory" }] },
+      "apply": {
+        "model": "atomictechnology:block/basic_energy_cable_extension",
+        "x": 270
+      }
+    },
+    {
+      "when": { "OR": [{ "down": "cable" }, { "down": "inventory" }] },
+      "apply": {
+        "model": "atomictechnology:block/basic_energy_cable_extension",
+        "x": 90
+      }
+    }
+  ]
+}

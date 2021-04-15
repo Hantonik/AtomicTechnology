@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "atomictechnology:vosmenite_alloy_block"
+    ]
+  },
+  "criteria": {
+    "has_vosmenite_alloy_ingot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "atomictechnology:vosmenite_alloy_ingot"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "atomictechnology:vosmenite_alloy_block"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_vosmenite_alloy_ingot",
+      "has_the_recipe"
+    ]
+  ]
+}

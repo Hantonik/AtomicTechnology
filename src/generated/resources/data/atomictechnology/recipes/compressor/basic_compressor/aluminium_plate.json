@@ -1,0 +1,19 @@
+{
+  "type": "atomictechnology:basic_compressor",
+  "inputs": [
+    {
+      "tag": "forge:ingots/aluminium"
+    },
+    {
+      "tag": "forge:ingots/aluminium"
+    }
+  ],
+  "pattern": {
+    "item": "atomictechnology:plate_pattern"
+  },
+  "output": {
+    "item": "atomictechnology:aluminium_plate"
+  },
+  "powerCost": 2000,
+  "powerRate": 500
+}

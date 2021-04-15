@@ -1,0 +1,21 @@
+{
+  "variants":
+  {
+    "facing=north":
+    {
+      "model": "atomictechnology:block/basic_smelter"
+    },
+    "facing=south":
+    {
+      "model": "atomictechnology:block/basic_smelter", "y":  180
+    },
+    "facing=west":
+    {
+      "model": "atomictechnology:block/basic_smelter", "y":  270
+    },
+    "facing=east":
+    {
+      "model": "atomictechnology:block/basic_smelter", "y":  90
+    }
+  }
+}

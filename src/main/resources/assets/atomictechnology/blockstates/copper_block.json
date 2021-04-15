@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "atomictechnology:block/copper_block"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+    modId="atomictechnology"
+    version="${version}"
+    displayName="${mod_name}"
+    displayURL="https://www.curseforge.com/minecraft/mc-mods/atomictechnology"
+    logoFile="logo.png"
+    updateJSONURL="https://raw.githubusercontent.com/Hantonik/AtomicTechnology/1.16.5/update.json"
+    authors="Hantonik"
+    description='''This is a mod for Minecraft that adds high-tech machines and items.
+    '''
+
+[[dependencies.atomictechnology]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.atomictechnology]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4,1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.atomictechnology]]
+    modId="atomiccore"
+    mandatory=true
+    versionRange="${core_version}"
+    ordering="BEFORE"
+    side="BOTH"

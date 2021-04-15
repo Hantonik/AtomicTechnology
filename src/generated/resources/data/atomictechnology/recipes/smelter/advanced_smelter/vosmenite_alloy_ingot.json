@@ -1,0 +1,20 @@
+{
+  "type": "atomictechnology:advanced_smelter",
+  "inputs": [
+    {
+      "tag": "forge:ingots/titanium"
+    },
+    {
+      "tag": "forge:ingots/steel"
+    },
+    {
+      "tag": "forge:ingots/copper"
+    }
+  ],
+  "output": {
+    "item": "atomictechnology:vosmenite_alloy_ingot",
+    "count": 2
+  },
+  "powerCost": 23500,
+  "powerRate": 10000
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "atomictechnology:smelter/atomic_smelter/steel_block"
+    ]
+  },
+  "criteria": {
+    "steel_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "atomictechnology:steel_block"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "atomictechnology:smelter/atomic_smelter/steel_block"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "steel_block",
+      "has_the_recipe"
+    ]
+  ]
+}
